@@ -9,8 +9,8 @@ class Program
     static void Main()
     {
         // Play the song synchronously
-        string filePath = @"E:\TechStdio\happy-bithday-in-dining-room-53763.mp3";
-        string filePath2 = @"E:\TechStdio\voice5-30459.mp3";
+        string filePath = @"E:\Wavfile\happy-bithday-in-dining-room-53763.mp3";
+        string filePath2 = @"E:\Wavfile\voice5-30459.mp3";
 
 
 
